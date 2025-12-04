@@ -4,3 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 torch
+pickle5==0.0.11
